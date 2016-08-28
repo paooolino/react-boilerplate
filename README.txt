@@ -1,3 +1,9 @@
+Make it your own
+===========================
+
+After cloning, you may rename the directory and remove the .git file.
+Also, update the package.json name, version, description, author fields.
+
 Installation
 =============
 
